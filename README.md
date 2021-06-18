@@ -121,6 +121,9 @@ Por qué es interesante?
 * David Wiley , **Open Content** en  https://openedreader.org/chapter/open-content/
 * David Casacuberta (2003) **Creación colectiva**. En Internet el creador es el público. Barcelona: Editorial Gedisa.
 * Daren C. Braham (2013) **Crowdsourcing**. The MIT Press JSTOR https://www.jstor.org/stable/j.ctt5hhk3m
+* Lev Manovich (2013) **El Software toma el mando**, UOC Press, ISBN: 9788490298633
+
+
 
 
 
