@@ -1,4 +1,4 @@
-## Panel: Culturas colaborativas en la era digital (I)
+## Panel: 3.1 Culturas colaborativas en la era digital (I)
 
 Autores: Miguel Gea & Jordi Alberich
 
@@ -6,6 +6,7 @@ Universidad de Granada
 
 Versión 1.0 8/06/2022 CCBYSA 
 
+![migrimage](./Migrimage_Logotipo.png)
 
 * Cultura colaborativa en la era digital: implicaciones éticas.
 
