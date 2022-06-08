@@ -1,28 +1,23 @@
-# crowdsourcing
-Crowdsourcing y participación en la cultura mediática contemporánea
+## Panel: 3.1 Culturas colaborativas en la era digital (I)
 
+Autores: Miguel Gea & Jordi Alberich
 
-### Crowdsourcing y participación en la cultura mediática contemporánea
+Universidad de Granada``
 
-Versión 1.0 CCBYSA 
+Versión 1.0 8/06/2022 CCBYSA 
 
-Panel debate del [Seminario de Trabajo del Proyecto Nar-Trans 2](https://www.nar-trans.com/evento/seminario-de-trabajo-del-proyecto-nar-trans-2-junio-de-2020/)  (18/06/2021)
+![migrimage](./Migrimage_Logotipo.png)
 
-Participantes: 
+* Cultura colaborativa en la era digital: implicaciones éticas.
 
-* Jordi Alberich-Pascual 
-
-* Miguel Gea Megías
-* Ildefonso Cordero Sánchez
-* Javier Cantón
-
-Presentación realizada con [Locomotive Scroll 4.0](https://github.com/locomotivemtl/locomotive-scroll)
+* Análisis y clasificación de modos y estrategias de participación en proyectos y prácticas creativas.
 
 ----
 
+## 1  Cultura colaborativa en la era digital:
 
 
-### **¿Qué es el Crowdsourcing?** 
+### 1 ¿Qué es el Crowdsourcing?
 
 “Crowdsourcing is a story of cooperation, aggregation, teamwork, consensus, and creativity" (D. C. Braham)
 
@@ -32,9 +27,29 @@ Presentación realizada con [Locomotive Scroll 4.0](https://github.com/locomotiv
 
 
 
-* **Crowdsourcing** consiste en c*olaboración abierta distribuida o externalización abierta de tareas, a un grupo indefinido (y normalmente grande) de personas* Jeff Howe (2006) 
+* **Crowdsourcing** consiste en *colaboración abierta distribuida o externalización abierta de tareas, a un grupo indefinido (y normalmente grande) de personas* Jeff Howe (2006) 
 * La **inteligencia colectiva** (o la sabiduría de las multitudes) es un tipo de inteligencia compartida que surge de la colaboración y la competencia de muchos individuos, La existencia de un nuevo espacio antropológico (**el espacio de conocimiento**) donde el saber colectivo será el que determine la actividad económica y el poder territorial, mientras que la **imaginación** y la **creación colectiva** se constituirán como las nuevas monedas de cambio (Pierre Lévy)
 * La **creación colectiva** es *el contenido más revolucionario de la cultura digital, aquello que mejor facilita su distinción de la cultura tradicional es la posibilidad de construir una cultura realmente colectiva* (Casacuberta, 2003) 
+
+
+
+### 1.2 El cambio digital
+
+
+Cita: 
+> “El mundo ya no es analógico, sino digital, 
+y por tanto, debemos reflexionar 
+sobre la diferencia que existe entre bits y átomos... “
+> Nicholas Negroponte (Being Digital, 1994)
+
+
+Negroponte ha sido fundador y Director del Laboratorio de Medios de Comunicación (The Media Laboratory) del Instituto de Tecnología de Massachusetts (MIT Media Lab) http://www.media.mit.edu y Autor del libro “Ser digital” (Being Digital, 1995) https://es.wikipedia.org/wiki/Ser_digital
+
+Un ejemplo de este cambio (digital) es la popularización del **selfie como acto social**. Uno de los más famosos y retuiteado es el de Ellen DeGeneres en la ceremonia de los Oscar de 2014 (https://twitter.com/theellenshow/status/440322224407314432). Otro muy comentado fue el selfie de Obama en el funeral de Mandela (2013) (https://www.elmundo.es/internacional/2013/12/11/52a8917361fd3df4268b456f.html). 
+
+
+### Los cimientos del mundo digital: El hardware
+
 
 
 
@@ -112,6 +127,16 @@ Por qué es interesante?
 - **Incentivar** Invertir en iniciativas de modo que te sientas parte de la misma pudiendo obtener alguna recompensa  
 
 
+### Artículos
+
+*  M. Gea (2022) **Herramientas y metodología crowdsourcing para la participación y creación colectiva de conocimiento abierto** en Transmedialización y crowdsourcing en la cultura mediática contemporánea, J. Alberich D. Sánchez-mesa (editores), Ed. Universidad de Granada, ISBN 978-84-338-6929-6. Versión Creative Commons (https://github.com/mgea/CCpapers, updated 21/01/2022)
+  https://github.com/mgea/CCpapers/tree/main/MetodologiaCrowdsourcing
+
+* J. Alberich,  A. Roig (2008) **Creación y producción audiovisual colaborativa. Implicaciones sociales y culturales del uso de software libre y recursos audiovisuales de código abierto**,  [UOC Papers: revista sobre la sociedad del conocimiento](https://dialnet.unirioja.es/servlet/revista?codigo=6760), ISSN-e 1885-1541, [Nº. 7, 2008](https://dialnet.unirioja.es/ejemplar/207389)
+
+  https://dialnet.unirioja.es/descarga/articulo/2799848.pdf
+
+
 ### Referencias
 
 * Jeff Howe (2006), **The rise of crowdsourcing**, Wired 14(6)   https://www.wired.com/2006/06/crowds/
@@ -122,10 +147,6 @@ Por qué es interesante?
 * David Casacuberta (2003) **Creación colectiva**. En Internet el creador es el público. Barcelona: Editorial Gedisa.
 * Daren C. Braham (2013) **Crowdsourcing**. The MIT Press JSTOR https://www.jstor.org/stable/j.ctt5hhk3m
 * Lev Manovich (2013) **El Software toma el mando**, UOC Press, ISBN: 9788490298633
-
-
-
-
 
 
 
