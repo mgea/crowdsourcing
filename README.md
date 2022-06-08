@@ -51,18 +51,22 @@ Un ejemplo de este cambio (digital) es la popularización del **selfie como acto
 ### Los cimientos del mundo digital: El hardware
 
 
+* Alan Kay y **el ordenador como metamedio**. Es en Xerox Parc donde Alan Kay desarrolló estos conceptos que hoy en día siguen vigentes, siendo además uno de los artífices del desarrollo de Xerox Star, el primer ordenador con representación gráfica (Kay, 1990) e inventor de Dynabook, el precursor de la tablet actual (Kay, 1977). (https://www.xataka.com/historia-tecnologica/xerox-parc-asi-se-trabajaba-en-el-lugar-magico-del-que-steve-jobs-copio-la-interfaz-de-macos)
 
 
-### **Orígenes**
+* **Tim Berners-Lee** creador de la **Web** (World wide web) como sistema de información universal mientras trabajaba como becario en el CERN, que era un centro donde desarrolla los conceptos de la hipermedia (1991). (https://www.w3.org/People/Berners-Lee/) 
+
 
 * **GNU Project** y **Licencia GPL**. (Richard Stallman, en Manifiesto GNU 1983) https://www.gnu.org/gnu/manifesto.es.html
   * GNU Not Unix -> Colabora!!!! 
+
 * **Linux**  (Linus Tovalds 1991) Crea su propio GNU. 
   * Creación para la comunidad con un sistema de control de versiones (**Git**), todos pueden aportar código
-* **Web** (Tim Berners-Lee, 1991 )
-  * Protocolo para transferir documentos hipermedia por internet  
+ 
 * **Wiki** (Ward Conningham, 1995)
   *  Páginas que se pueden editar en el navegador 
+
+* **Web 2.0** se refiere a una segunda generación de Web basada en comunidades de usuarios y una gama especial de servicios, como las redes sociales, los blogs, los wikis o las folcsonomías, que fomentan la colaboración y el intercambio ágil de información entre los usuarios”  Tim O’Reilly, fundador editorial O'Reilly, 2004. Este término nos permite referimos a una segunda generación de Web basada en comunidades de usuarios y una gama especial de servicios que fomentan la colaboración y el intercambio ágil de información entre los usuarios  que estaban orientados a compartir información y a facilitar la capacidad de ser productores o prosumers (en lugar de meramente consumidores). 
 
 
 
